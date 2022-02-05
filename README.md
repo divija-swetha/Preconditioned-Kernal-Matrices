@@ -6,7 +6,7 @@ The [PPT](./TAO_PPT.pdf) shows our implementation of the code and results.
 
 # Contributors
 
-- Divija Swetha Gadiraju <dgadiraj@purdue.edu>
+- Divija Swetha Gadiraju <divija.swetha@research.iiit.ac.in>
 
 # License
 [MIT LICENSE](LICENSE)
