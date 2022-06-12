@@ -4,9 +4,9 @@ This ia a part of couse project for Topics in Applied Optimization, 2018 at Inte
 
 The [PPT](./TAO_PPT.pdf) shows our implementation of the code and results.
 
-# Contributors
+<!-- # Contributors
 
-- Divija Swetha Gadiraju <divija.swetha@research.iiit.ac.in>
+- Divija Swetha Gadiraju <divija.swetha@research.iiit.ac.in> -->
 
 # License
 [MIT LICENSE](LICENSE)
